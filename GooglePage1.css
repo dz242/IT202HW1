@@ -1,0 +1,58 @@
+body {
+    background-color: #9df1ed
+}
+
+.navbar {
+    margin-top: 20px;
+    text-align: right;
+}
+
+.Groomail {
+    margin-right: 35px;
+}
+
+.Grimages {
+    margin-right: 35px;
+}
+
+.Signin {
+    margin-right: 35px;
+    background-color: #ff4b5c;
+}
+
+.Signin:hover {
+    background-color: #ce777f;   
+}
+
+.LogoAndSearchbar {
+    margin-top: 150px;
+}
+
+input[name="SearchBar"] {
+    margin-top: 50px;
+    width: 550px;
+    height: 30px;
+}
+
+.GSearch {
+    margin-top: 25px;
+    margin-right: 25px;
+    background-color: #ff4b5c;
+}
+
+.GSearch:hover {
+    background-color: #ce777f; 
+}
+
+.Groobly {
+    margin-top: 25px;
+    background-color: #ff4b5c;
+}
+
+.Groobly:hover {
+    background-color: #ce777f; 
+}
+
+.Tagline {
+    margin-top: 125px;
+}
